@@ -6,11 +6,12 @@ WLED is an "implementation of an ESP8266/ESP32 webserver to control NeoPixel (WS
 
 ## Install Home Assistant
 
-[HA Setup](/ha/setup.md)
+[HA Setup](/ha/readme.md)
 
 ## Flash WLED to ESP8266
 
-[WLED Setup](/wled/setup.md)
+[WLED Setup](/wled/readme.md)
 
 ## Connect Lights to ESP8266
 
+[WS8215](/wled/WS8215.md)
