@@ -14,4 +14,4 @@ WLED is an "implementation of an ESP8266/ESP32 webserver to control NeoPixel (WS
 
 ## Connect Lights to ESP8266
 
-[WS8215](/wled/WS8215.md)
+[WS2815](/wled/WS2815.md)
